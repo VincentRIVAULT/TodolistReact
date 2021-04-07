@@ -11,6 +11,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  padding: 1em 0;
 }
 
 .Todolist-link {
@@ -18,7 +19,12 @@
 }
 
 .Todolist-section {
+  text-align: center;
+  margin: 2em auto;
+}
+
+.Todolist-article {
   text-align: justify;
-  margin: auto 2em;
+  margin: 4em 20em 0 20em;
 }
 
