@@ -1,4 +1,5 @@
 import './Todolist.css';
+// eslint-disable-next-line no-unused-vars
 import { Button, Icon, Image, List } from 'semantic-ui-react'
 
 function Todolist() {
