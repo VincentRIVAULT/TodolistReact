@@ -2,9 +2,8 @@
   text-align: center;
 }
 
-.Todolist-header {
+/* .Todolist-header {
   background-color: green;
-  /* min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -12,7 +11,7 @@
   font-size: calc(10px + 2vmin);
   color: white;
   padding: 1em 0;
-}
+} */
 
 .Todolist-link {
   color: #61dafb;
@@ -25,6 +24,6 @@
 
 .Todolist-article {
   text-align: justify;
-  margin: 4em 20em 0 20em;
+  /* margin: 4em 20em 0 20em; */
 }
 
