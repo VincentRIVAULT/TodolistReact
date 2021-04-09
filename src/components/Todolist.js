@@ -1,4 +1,4 @@
-import './Todolist.css';
+import '../css/Todolist.css';
 
 import React from "react";
 
@@ -28,7 +28,7 @@ export default class Todolist extends React.Component {
         return (
             <div className="Todolist">
                 <Container text>
-                    <Header as='h1'>Ma Todolit !</Header>
+                    <Header as='h1'>Ma React Todolit !</Header>
                     <section className="Todolist-section">
                         <Header as='h2'>Ma liste de lieux à visiter :</Header>
                         <article className="Todolist-article">
